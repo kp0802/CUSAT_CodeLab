@@ -2,5 +2,6 @@
 
 #include<iostream.h>
 void main()
-{   cout<<" Hello World!";
+{   cout<<" HELLO WORLD!!!";
+    cout<<"\n"<<"HAVE A GREAT DAY AHEAD :) ";
 }
